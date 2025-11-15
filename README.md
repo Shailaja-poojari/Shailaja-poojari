@@ -20,6 +20,7 @@ I’m a passionate developer who loves building end-to-end applications from bac
 I enjoy solving real-world problems, working on open-source projects, and continuously learning new technologies.
 
 I specialize in:
+✨ Web Development
 ✨ Full-stack development with Python + FastAPI / Django + React
 ✨ AI/ML applications, NLP, Computer Vision
 ✨ Clean, scalable, production-ready architectures
