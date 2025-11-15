@@ -1,5 +1,5 @@
 <h1 align="center">✨ Shailaja Poojary ✨</h1>
-<h3 align="center">PYTHON FULL STACK SOFTWARE ENGINEER  | AI/ML Enthusiast | Building Smart & Scalable Applications</h3>
+<h3 align="center">Python Full Stack Software Engineer  | AI/ML Enthusiast | Building Smart & Scalable Applications</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shailaja-poojary-621760330">
