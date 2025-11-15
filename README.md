@@ -118,11 +118,5 @@ ML-based solution with deployable pipeline structure.
 ---
 
 ##  Let's Connect  
-I’m open to:  
-✔ AI/ML roles  
-✔ Python full-stack development  
-✔ Research-Based Projects  
-✔ Internships & Open-Source  
 
----
 
