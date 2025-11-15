@@ -15,13 +15,13 @@
 
 ---
 
-## 🎨 About Me  
+##  About Me  
 I’m a passionate developer who loves building **AI-powered full-stack applications** that solve real-world problems.  
 I enjoy combining **backend engineering, frontend design, and machine learning** to create impactful products.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 `Python` • `JavaScript` • `SQL` • `HTML` • `CSS`
@@ -44,7 +44,7 @@ Basic: `AWS S3` • `Lambda` • `EC2`
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 **AI-Powered Last-Mile Delivery Optimizer**  
 FastAPI backend + ML model + dashboard UI for improving delivery efficiency.
@@ -62,7 +62,7 @@ ML-based solution with deployable pipeline structure.
 
 ## 🎓 Internships
 
-### 🟦 Infosys Springboard – AI/ML Virtual Internship (2025 – Ongoing)
+###  Infosys Springboard – AI/ML Virtual Internship (2025 – Ongoing)
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Infosys_logo.svg" width="140"/>
 </div>
@@ -78,7 +78,7 @@ ML-based solution with deployable pipeline structure.
 
 ---
 
-### 🟨 Emberquest Pvt. Ltd – Data Science Internship (Completed)
+###  Emberquest Pvt. Ltd – Data Science Internship (Completed)
 <div align="left">
 <img src="https://i.ibb.co/4m0BD1s/emberquest-logo.png" width="120"/>
 </div>
@@ -93,7 +93,7 @@ ML-based solution with deployable pipeline structure.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -105,14 +105,14 @@ ML-based solution with deployable pipeline structure.
 
 ---
 
-## 🐍 Contribution Graph (Snake)
+##  Contribution Graph (Snake)
 <div align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect  
+##  Let's Connect  
 I’m open to:  
 ✔ AI/ML roles  
 ✔ Python full-stack development  
