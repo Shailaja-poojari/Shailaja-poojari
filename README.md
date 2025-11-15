@@ -16,7 +16,7 @@
 ---
 
 ##  About Me  
-I’m a passionate developer who loves building end-to-end applications — from backend APIs to frontend interfaces — enhanced with AI/ML features.
+I’m a passionate developer who loves building end-to-end applications from backend APIs to frontend interfaces , enhanced with AI/ML features.
 I enjoy solving real-world problems, working on open-source projects, and continuously learning new technologies.
 
 I specialize in:
