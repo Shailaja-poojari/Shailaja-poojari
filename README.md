@@ -58,9 +58,6 @@ FastAPI backend + ML model + dashboard UI for improving delivery efficiency.
 ### 🔹 **FinanceInsight – NER for Financial Documents**  
 NLP-based entity extraction system built for financial datasets.
 
-### 🔹 **AI Maintenance Predictor**  
-Predictive analytics using ML pipelines + modern UI.
-
 ### 🔹 **Deepfake Detection System**  
 ML-based solution with deployable pipeline structure.
 
