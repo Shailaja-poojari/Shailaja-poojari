@@ -16,30 +16,35 @@
 ---
 
 ##  About Me  
-I’m a passionate developer who loves building **AI-powered full-stack applications** that solve real-world problems.  
-I enjoy combining **backend engineering, frontend design, and machine learning** to create impactful products.
+I’m a passionate developer who loves building end-to-end applications — from backend APIs to frontend interfaces — enhanced with AI/ML features.
+I enjoy solving real-world problems, working on open-source projects, and continuously learning new technologies.
+
+I specialize in:
+✨ Full-stack development with Python + FastAPI / Django + React
+✨ AI/ML applications, NLP, Computer Vision
+✨ Clean, scalable, production-ready architectures
 
 ---
 
 ##  Tech Stack
 
 ### **Languages**
-`Python` • `JavaScript` • `SQL` • `HTML` • `CSS`
+`Python` • `JavaScript` • `SQL`  • `TypeScript`
 
 ### **Backend**
 `FastAPI` • `Django` • `Flask`
 
 ### **Frontend**
-`React.js` • `Tailwind CSS`
+`React.js` • `Tailwind CSS` • `HTML` • `CSS` • Next.js
 
 ### **AI / ML**
-`scikit-learn` • `Pandas` • `NumPy` • `TensorFlow` (beginner) • `PyTorch` (beginner)
+`scikit-learn` • `Pandas` • `NumPy` •Matplotlib/Seaborn   • NLP  • Hugging Face Transformers  • NER  • `TensorFlow` (beginner) • `PyTorch` (beginner)  • CNN  • Training, tuning, evaluation
 
 ### **Databases**
 `PostgreSQL` • `MySQL` • `MongoDB`
 
-### **DevOps / Cloud**
-`GitHub` • `Docker` • `CI/CD Pipelines` • `Render` • `Vercel`  
+### **DevOps & Tools  / Cloud**
+`Git + GitHub` • `Docker` • `CI/CD Pipelines`  • Postman •  VS Code  • `Render` • `Vercel` • Kubernetes • Google Colab  
 Basic: `AWS S3` • `Lambda` • `EC2`
 
 ---
