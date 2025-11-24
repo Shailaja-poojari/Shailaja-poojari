@@ -1,4 +1,4 @@
-<h1 align="center">✨ Shailaja Poojary ✨</h1>
+<h1 align="center"> Shailaja Poojary </h1>
 <h3 align="center">Python Full Stack Software Engineer  | AI/ML Enthusiast | Building Smart & Scalable Applications</h3>
 
 <p align="center">
@@ -13,17 +13,7 @@
 </a>
 </p>
 
----
 
-##  About Me  
-I’m a passionate developer who loves building end-to-end applications from backend APIs to frontend interfaces , enhanced with AI/ML features.
-I enjoy solving real-world problems, working on open-source projects, and continuously learning new technologies.
-
-I specialize in:
-✨ Web Development
-✨ Full-stack development with Python + FastAPI / Django + React
-✨ AI/ML applications, NLP, Computer Vision
-✨ Clean, scalable, production-ready architectures
  
 
 
