@@ -21,7 +21,7 @@ I maintain all my certifications in a dedicated GitHub repository:   **[View My 
 ---
 ##  Portfolio 
 Check out my projects, skills, and work showcased here:
- **[Portfolio](https://shailajapoojary-ot67mfs.gamma.site/)**
+ **[Portfolio](https://shailajapoojary-r3t1ttq.gamma.site/)** 
 
 ---
 ##  GitHub Stats
