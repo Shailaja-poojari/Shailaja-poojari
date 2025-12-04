@@ -16,7 +16,7 @@
 ---
 
 ##  My Certifications  
- I maintain all my certifications in a dedicated GitHub repository:  
+I maintain all my certifications in a dedicated GitHub repository:  
 👉 **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
 
 ---
