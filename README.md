@@ -21,7 +21,8 @@
 
 ---
 
-##  Portfolio  
+##  Portfolio 
+Check out my projects, skills, and work showcased here:
 👉 **[Portfolio](https://shailajapoojary-ot67mfs.gamma.site/)**
 
 ---
