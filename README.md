@@ -35,7 +35,7 @@ Check out my projects, skills, and work showcased here:
 </p>
 
 ---
-## 🛠️ Languages & Tools Used
+##  Languages & Tools Used
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
