@@ -16,14 +16,13 @@
 ---
 
 ##  My Certifications  
-I maintain all my certifications in a dedicated GitHub repository:  
-👉 **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
+I maintain all my certifications in a dedicated GitHub repository:   **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
 
 ---
 
 ##  Portfolio 
 Check out my projects, skills, and work showcased here:
-👉 **[Portfolio](https://shailajapoojary-ot67mfs.gamma.site/)**
+ **[Portfolio](https://shailajapoojary-ot67mfs.gamma.site/)**
 
 ---
 
