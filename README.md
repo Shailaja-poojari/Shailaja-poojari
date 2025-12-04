@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Shailaja Poojary </h1>
-<h3 align="center">Tech Enthusiast | Building Smart & Scalable Applications</h3>
+<h3 align="center">Building Smart & Scalable Applications</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shailaja-poojary-621760330">
@@ -13,7 +13,32 @@
 </a>
 </p>
 
+---
 
- 
+##  My Certifications  
+📘 I maintain all my certifications in a dedicated GitHub repository:  
+👉 **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
 
+---
 
+##  Portfolio  
+Check out my projects, skills, and work showcased here:  
+👉 **https://shailajapoojary-ot67mfs.gamma.site/**
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailaja-poojari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailaja-poojari&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaja-poojari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
