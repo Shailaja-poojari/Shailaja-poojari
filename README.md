@@ -36,8 +36,5 @@ Check out my projects, skills, and work showcased here:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailaja-poojari&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaja-poojari&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
