@@ -18,21 +18,7 @@
 ##  My Certifications  
 I maintain all my certifications in a dedicated GitHub repository:   **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
 
----
-##  Portfolio 
-Check out my projects, skills, and work showcased here:
- **[Portfolio](https://shailajapoojary-r3t1ttq.gamma.site/)** 
 
----
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailaja-poojari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailaja-poojari&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 ##  Languages & Tools Used
