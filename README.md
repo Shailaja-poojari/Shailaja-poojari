@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Shailaja Poojary </h1>
+<h1 align="center"> Shailaja Poojary </h1>
 <h3 align="center">Building Smart & Scalable Applications</h3>
 
 <p align="center">
