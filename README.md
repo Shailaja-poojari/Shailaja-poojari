@@ -116,7 +116,7 @@ CI/CD and cloud-integrated applications
 ⭐ From <a href="https://github.com/Shailaja-poojari">Shailaja Poojary</a>
 </p>
 
-# 🤝 Open to Opportunities
+#  Open to Opportunities
 I’m always excited to collaborate on innovative projects, learn new technologies, and work with passionate developers.
 
  
