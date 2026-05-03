@@ -17,11 +17,7 @@
 
 
 
-##  My Certifications  
-I maintain  my certifications in a dedicated GitHub repository:   **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
-
-
-📫 Reach me at shailaja.s.poojary091@gmail.com
+ Reach me at shailaja.s.poojary091@gmail.com
 
 
 🌐 Connect With Me
@@ -36,6 +32,10 @@ I maintain  my certifications in a dedicated GitHub repository:   **[View My Cer
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+
+##  My Certifications  
+I maintain  my certifications in a dedicated GitHub repository:   **[View My Certifications](https://github.com/Shailaja-poojari/My-Certifications)**
 
  Tech Stack
  Programming Languages
@@ -64,6 +64,7 @@ I maintain  my certifications in a dedicated GitHub repository:   **[View My Cer
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,arduino"/>
 </p>
 
+
 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shailaja-poojari&show_icons=true&theme=tokyonight" height="170"/>
@@ -73,10 +74,12 @@ I maintain  my certifications in a dedicated GitHub repository:   **[View My Cer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaja-poojari&layout=compact&theme=tokyonight"/>
 </p>
 
+
  GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shailaja-poojari&theme=algolia&row=1&column=7"/>
 </p>
+
 
 📌 Featured Projects
 
@@ -104,6 +107,7 @@ Deployment using AWS, Vercel, Netlify & Docker
 
 
 CI/CD and cloud-integrated applications
+
 
 
 
