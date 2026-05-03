@@ -36,29 +36,29 @@ I maintain  my certifications in a dedicated GitHub repository:   **[View My Cer
 </a>
 </p>
 
-🚀 Tech Stack
-👨‍💻 Programming Languages
+ Tech Stack
+ Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,html,css"/>
 </p>
-⚛️ Frameworks & Libraries
+ Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,fastapi,nodejs,wordpress"/>
 </p>
-🤖 AI / Machine Learning
+ AI / Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
-🗄️ Databases & Backend
+ Databases & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase"/>
 </p>
-☁️ Cloud & Deployment
+ Cloud & Deployment
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,docker"/>
 </p>
-🛠️ Tools & Platforms
+ Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,arduino"/>
 </p>
@@ -72,14 +72,14 @@ I maintain  my certifications in a dedicated GitHub repository:   **[View My Cer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailaja-poojari&layout=compact&theme=tokyonight"/>
 </p>
 
-🏆 GitHub Trophies
+ GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shailaja-poojari&theme=algolia&row=1&column=7"/>
 </p>
 
 📌 Featured Projects
-🔹 AI & Machine Learning Projects
 
+🔹 AI & Machine Learning Projects
 
 AI-powered applications using TensorFlow, PyTorch & Scikit-Learn
 
